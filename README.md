@@ -1,97 +1,83 @@
-# Abdulla Sajad
+<h1 align="center">
+  <a href="https://sajadkoder.vercel.app">
+    <img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&weight=700&size=36&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Abdulla+Sajad;Software+Engineer+%2F%2F+AI+Engineer" alt="Typing SVG" />
+  </a>
+</h1>
 
-> Software Engineer | AI Engineer | Building at the intersection of backend systems and LLMs
+<p align="center">
+  <a href="mailto:abdullasajadpk@gmail.com"><img src="https://img.shields.io/badge/email-Abdulla%20Sajad-grey?style=flat&logo=gmail"></a>
+  <a href="https://linkedin.com/in/sajadkoder"><img src="https://img.shields.io/badge/LinkedIn-sajadkoder-grey?style=flat&logo=linkedin"></a>
+  <a href="https://sajadkoder.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sajadkoder.vercel.app-grey?style=flat&logo=vercel"></a>
+</p>
 
-[![Email](https://img.shields.io/badge/abdullasajadpk%40gmail.com-grey?style=flat&logo=gmail)](mailto:abdullasajadpk@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/sajadkoder-grey?style=flat&logo=linkedin)](https://linkedin.com/in/sajadkoder)
-[![Portfolio](https://img.shields.io/badge/sajadkoder.vercel.app-grey?style=flat&logo=vercel)](https://sajadkoder.vercel.app)
+---
+
+## Focus Areas
+
+```
+> LLM Engineering
+> Retrieval-Augmented Generation (RAG)
+> Autonomous Agents
+> Backend Systems
+```
 
 ---
 
 ## About
 
-Final-year CS student based in Kerala, India. Building full-stack applications with a focus on backend architecture and AI integration.
+Final-year CS student based in Kerala, India.
 
-Currently exploring LLM engineering, RAG pipelines, and autonomous agents. Open to opportunities.
+Building full-stack applications with focus on backend architecture and AI integration. Currently exploring how LLMs can be productively integrated into real-world systems.
 
 ---
 
 ## Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-333333?style=logo=java)
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=kotlin)
-
-### Frameworks & Backend
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=next.js)
-![FastAPI](https://img.shields.io/badge/-FastAPI-333333)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333)
-![Android](https://img.shields.io/badge/-Android-333333)
-
-### AI/ML
-![LangChain](https://img.shields.io/badge/-LangChain-333333)
-![OpenAI](https://img.shields.io/badge/-OpenAI-333333)
-![RAG](https://img.shields.io/badge/-RAG-333333)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333)
-
-### Tools
-![Docker](https://img.shields.io/badge/-Docker-333333?logo=docker)
-![Redis](https://img.shields.io/badge/-Redis-333333?logo=redis)
-![Supabase](https://img.shields.io/badge/-Supabase-333333?logo=supabase)
-![Linux](https://img.shields.io/badge/-Linux-333333?logo=linux)
+| Category | Technologies |
+|----------|-------------|
+| Languages | Python, TypeScript, Java, Kotlin |
+| Backend | FastAPI, Spring Boot, Next.js |
+| AI/ML | LangChain, OpenAI API, scikit-learn |
+| Infrastructure | Docker, Redis, Supabase, Linux |
 
 ---
 
-## Featured Projects
+## Projects
 
 ### [SentinelML](https://github.com/sajadkoder/sentinelml)
-Production-ready real-time fraud detection system. FastAPI, scikit-learn, Redis caching, MLflow tracking, Docker deployment.
+Real-time fraud detection system with FastAPI, scikit-learn, Redis caching, MLflow tracking, Docker deployment.
 
 ### [Anogram](https://github.com/sajadkoder/anogram)
-Decentralized offline-capable messaging with Telegram-inspired UI and Bluetooth mesh networking. 100% offline, peer-to-peer, privacy-first.
+Decentralized offline-capable messaging with Bluetooth mesh networking. 100% offline, peer-to-peer, privacy-first.
 
 ### [Esencelab](https://github.com/sajadkoder/esencelab)
-AI-powered campus recruitment platform with resume parsing, job matching, and role-based dashboards. Next.js, TypeScript, FastAPI, Supabase, Gemini AI.
+AI-powered campus recruitment platform with resume parsing, job matching, Gemini integration.
 
 ### [ZordCoder](https://github.com/sajadkoder/zordcoder)
-Multilingual coding assistant for mobile (Termux) with GGUF inference, CLI and web interface, streaming responses.
+Multilingual coding assistant for mobile (Termux) with GGUF inference, CLI and web interface.
 
 ### [SpeakSwap](https://speakswap.vercel.app)
-Real-time voice translation web app. Migrated from Android to web with speech-to-text and multi-language translation.
+Real-time voice translation web app using Web Speech API.
 
 ---
 
 ## Writing
 
-- [Agentic Engineering: Building Autonomous AI Systems That Actually Work](https://sajadkoder.vercel.app/writing/agentic-engineering)
+- [Agentic Engineering: Building Autonomous AI Systems](https://sajadkoder.vercel.app/writing/agentic-engineering)
 - [Building with AI Agents: A Practical Guide](https://sajadkoder.vercel.app/writing/ai-agents-guide)
 - [The LLM Landscape: What's Actually Useful in 2026](https://sajadkoder.vercel.app/writing/llm-landscape)
-- [Introduction to System Design](https://sajadkoder.vercel.app/writing/system-design)
 
 ---
 
 ## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajadkoder&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajadkoder&layout=compact&theme=transparent&hide_border=true" height="180" alt="languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sajadkoder&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajadkoder&layout=compact&theme=radical&hide_border=true" height="180" />
 </p>
 
 ---
 
-<!--
-**sajadkoder/sajadkoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sajadkoder&style=flat-square&color=58A6FF" alt="Profile views" />
+</p>
