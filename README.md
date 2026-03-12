@@ -1,53 +1,59 @@
 # Abdulla Sajad
 
-Software Engineer // AI Engineer
-
-[Portfolio](https://sajadkoder.vercel.app) · [LinkedIn](https://linkedin.com/in/sajadkoder) · [abdullasajadpk@gmail.com](mailto:abdullasajadpk@gmail.com)
+[abdullasajadpk@gmail.com](mailto:abdullasajadpk@gmail.com) · [LinkedIn](https://linkedin.com/in/sajadkoder) · [sajadkoder.vercel.app](https://sajadkoder.vercel.app)
 
 ---
 
-## About
+## Research Interests
 
-Final-year CS student. Building full-stack applications with focus on backend systems and AI integration.
-
-Currently working with LLM engineering, RAG pipelines, and autonomous agents.
-
-Based in Kerala, India. Open to opportunities.
-
----
-
-## Tech Stack
-
-**Languages:** Python, Java, TypeScript, Kotlin
-
-**Frameworks:** Next.js, FastAPI, Spring Boot, Android
-
-**AI/ML:** LangChain, OpenAI API, RAG, Prompt Engineering
-
-**Tools:** Docker, Git, Supabase, Linux
+- Large Language Model Engineering
+- Retrieval-Augmented Generation Systems
+- Autonomous Agents
+- Distributed Systems
 
 ---
 
-## Projects
+## Background
 
-| Project | Description |
-|---------|-------------|
-| [Anogram](https://github.com/sajadkoder/anogram) | Decentralized offline-capable messaging with Bluetooth mesh networking |
-| [SentinelML](https://github.com/sajadkoder/sentinelml) | Production-ready real-time fraud detection system |
-| [Esencelab](https://github.com/sajadkoder/esencelab) | AI-powered campus recruitment platform with resume parsing and job matching |
-| [SpeakSwap](https://speakswap.vercel.app) | Real-time voice translation web app |
-| [ZordCoder](https://github.com/sajadkoder/zordcoder) | Multilingual coding assistant for mobile (Termux) with GGUF inference |
+Final-year Computer Science student at Kerala, India. My work centers on the intersection of backend architecture and artificial intelligence—building systems that scale and exploring how LLMs can be integrated into real-world applications.
+
+Previously worked on production ML systems, real-time fraud detection pipelines, and peer-to-peer communication protocols.
 
 ---
 
-## Writing
+## Technical Stack
 
-- [How AI Companies Scale: The New Era of Software Development](https://sajadkoder.vercel.app/writing/ai-companies-scale)
+**Languages:** Python, TypeScript, Java, Kotlin
+
+**Backend:** FastAPI, Spring Boot, Next.js
+
+**AI/ML:** LangChain, OpenAI API, scikit-learn, MLflow
+
+**Infrastructure:** Docker, Redis, Supabase, Linux
+
+---
+
+## Selected Projects
+
+| Project | Focus |
+|---------|-------|
+| [SentinelML](https://github.com/sajadkoder/sentinelml) | Real-time fraud detection with FastAPI, scikit-learn, Redis caching |
+| [Anogram](https://github.com/sajadkoder/anogram) | Decentralized messaging via BLE mesh networking |
+| [Esencelab](https://github.com/sajadkoder/esencelab) | AI-powered recruitment platform with Gemini integration |
+| [ZordCoder](https://github.com/sajadkoder/zordcoder) | Mobile LLM inference with llama.cpp |
+| [SpeakSwap](https://speakswap.vercel.app) | Voice translation using Web Speech API |
+
+---
+
+## Publications
+
+- [Agentic Engineering: Building Autonomous AI Systems That Actually Work](https://sajadkoder.vercel.app/writing/agentic-engineering)
 - [Building with AI Agents: A Practical Guide](https://sajadkoder.vercel.app/writing/ai-agents-guide)
 - [The LLM Landscape: What's Actually Useful in 2026](https://sajadkoder.vercel.app/writing/llm-landscape)
+- [Introduction to System Design](https://sajadkoder.vercel.app/writing/system-design)
 
 ---
 
-## GitHub Stats
+## Currently
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajadkoder&layout=compact&theme=transparent&hide_border=true)
+Exploring autonomous agent architectures and their deployment in production environments.
