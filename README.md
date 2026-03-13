@@ -2,8 +2,6 @@
 
 Software Engineer // AI Engineer
 
-[sajadkoder.vercel.app](https://sajadkoder.vercel.app) · [LinkedIn](https://linkedin.com/in/sajadkoder) · [abdullasajadpk@gmail.com](mailto:abdullasajadpk@gmail.com)
-
 ---
 
 ## About
