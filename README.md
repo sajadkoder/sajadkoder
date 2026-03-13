@@ -1,23 +1,12 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&weight=700&size=36&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Abdulla+Sajad;Software+Engineer+%2F%2F+AI+Engineer;Building+at+LLM+intersection" alt="Typing SVG" />
-</h1>
+# Abdulla Sajad
 
-<div align="center">
+Software Engineer // AI Engineer
 
-[![Email](https://img.shields.io/badge/abdullasajadpk%40gmail.com-grey?style=flat&logo=gmail)](mailto:abdullasajadpk@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/sajadkoder-grey?style=flat&logo=linkedin)](https://linkedin.com/in/sajadkoder)
-[![Portfolio](https://img.shields.io/badge/sajadkoder.vercel.app-grey?style=flat&logo=vercel)](https://sajadkoder.vercel.app)
-[![GitHub](https://img.shields.io/badge/sajadkoder-grey?style=flat&logo=github)](https://github.com/sajadkoder)
-
-</div>
+[sajadkoder.vercel.app](https://sajadkoder.vercel.app) · [LinkedIn](https://linkedin.com/in/sajadkoder) · [abdullasajadpk@gmail.com](mailto:abdullasajadpk@gmail.com)
 
 ---
 
-## About Me
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sajadkoder&style=flat-square&color=58A6FF" alt="Profile views" />
-</p>
+## About
 
 Final-year CS student based in **Kerala, India**.
 
@@ -104,10 +93,6 @@ Building full-stack applications with focus on **backend architecture** and **AI
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajadkoder&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajadkoder&theme=radical&hide_border=true" alt="streak" />
-</p>
-
 ---
 
 ## Recent Writing
@@ -122,20 +107,6 @@ Building full-stack applications with focus on **backend architecture** and **AI
 
 ## Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/sajadkoder">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:abdullasajadpk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://sajadkoder.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" />
-</p>
+- [LinkedIn](https://linkedin.com/in/sajadkoder)
+- [Email](mailto:abdullasajadpk@gmail.com)
+- [Portfolio](https://sajadkoder.vercel.app)
