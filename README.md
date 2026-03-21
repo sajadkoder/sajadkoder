@@ -8,7 +8,7 @@
 
 Building full-stack applications with focus on **backend systems** and **AI integration**. Specializing in LLM engineering, RAG pipelines, and autonomous agents.
 
-I design and ship production systems — from real-time ML pipelines to decentralized protocols. I write about AI engineering, agentic systems, and the intersection of LLMs with practical software.
+I design and ship production systems, from real-time ML pipelines to decentralized protocols. I write about AI engineering, agentic systems, and the intersection of LLMs with practical software.
 
 **Interests:** LLM Engineering · RAG · Autonomous Agents · Backend Architecture
 
