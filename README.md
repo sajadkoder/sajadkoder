@@ -18,8 +18,6 @@ Building full-stack applications with focus on backend systems and AI integratio
 
 [Esencelab](https://github.com/sajadkoder/esencelab) — AI-powered recruitment platform (Next.js, FastAPI, Supabase, Gemini)
 
-[ZordCoder](https://github.com/sajadkoder/zordcoder) — Mobile coding assistant with GGUF inference
-
 [Anogram](https://github.com/sajadkoder/anogram) — Decentralized offline messaging (BLE mesh)
 
 [SpeakSwap](https://speakswap.vercel.app) — Voice translation web app
