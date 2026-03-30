@@ -1,19 +1,11 @@
 <h1 align="center">Abdulla Sajad</h1>
 
 <p align="center">
-  Software Engineer // AI Engineer
+  Software Engineer and AI Engineer
 </p>
 
 <p align="center">
-  I build production-oriented software at the intersection of backend engineering, applied AI, and full-stack product development.
-</p>
-
-<p align="center">
-  My work spans LLM integrations, RAG systems, real-time applications, web platforms, and Android development.
-</p>
-
-<p align="center">
-  Currently focused on autonomous agents, practical AI systems, and scalable backend architecture.
+  Backend Systems | Applied AI | RAG | Autonomous Agents | Full-Stack Products
 </p>
 
 ---
