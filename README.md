@@ -1,10 +1,10 @@
-<h1 align="center">Sajad</h1>
+<h1 align="left">sajad</h1>
 
-<p align="center">
+<p align="left">
   full-stack ai engineer
 </p>
 
-<p align="center">
+<p align="left">
   building backend systems, ai apps, and real-world products
 </p>
 
