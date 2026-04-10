@@ -1,75 +1,62 @@
-<h1 align="center">Abdulla Sajad</h1>
+<h1 align="center">Sajad</h1>
 
 <p align="center">
-  Software Engineer and AI Engineer
+  full-stack ai engineer
 </p>
 
 <p align="center">
-  Backend Systems | Applied AI | RAG | Autonomous Agents | Full-Stack Products
+  building backend systems, ai apps, and real-world products
 </p>
 
 ---
 
-## Professional Summary
+## about
 
-- Backend-focused software engineer with hands-on experience building AI-enabled products and developer tools.
-- Interested in production AI, retrieval systems, APIs, real-time systems, and end-to-end product engineering.
-- Open to software engineering and AI engineering opportunities.
+i build production-ready systems — not just demos  
 
----
-
-## Core Stack
-
-- Languages: `Python` `TypeScript` `Java` `Kotlin`
-- Frameworks: `React` `Next.js` `FastAPI` `Spring Boot` `Android`
-- AI / ML: `LangChain` `OpenAI API` `RAG Pipelines` `Prompt Engineering`
-- Tools: `Docker` `Git` `Supabase` `Linux`
+worked on ai platforms, real-time ml systems, and scalable backend apis  
+focused on backend architecture, ai integration, and systems that actually scale  
 
 ---
 
-## Public Repositories
+## stack
 
-| Repository | Focus |
+`python` `typescript` `java` `kotlin`  
+`fastapi` `node.js` `next.js` `react` `spring boot`  
+`postgresql` `redis` `docker` `supabase` `prometheus`  
+`llms` `rag` `langchain` `mlflow`
+
+---
+
+## projects
+
+| repo | what it does |
 | --- | --- |
-| **[sentinel-ml](https://github.com/sajadkoder/sentinel-ml)** | Production-ready real-time fraud detection system built with `FastAPI`, `scikit-learn`, `Redis`, `MLflow`, and `Docker`. |
-| **[esencelab](https://github.com/sajadkoder/esencelab)** | AI-powered campus recruitment platform with resume parsing, job matching, and role-based dashboards. [Live](https://esencelab.vercel.app) |
-| **[smart-qa-system](https://github.com/sajadkoder/smart-qa-system)** | Lightweight document question-answering system with a `FastAPI` backend, `Streamlit` frontend, local indexing, and offline extractive QA. |
-| **[zeviewer](https://github.com/sajadkoder/zeviewer)** | Community-driven platform for reviewing 1000+ AI models, built with `Next.js` and `Supabase`. [Live](https://zeviewer.vercel.app) |
-| **[speakswap](https://github.com/sajadkoder/speakswap)** | Real-time voice translation web application with speech-to-text and multilingual translation. [Live](https://speakswap.vercel.app) |
-| **[drone-fleet-telemetry-api](https://github.com/sajadkoder/drone-fleet-telemetry-api)** | Real-time drone fleet monitoring system with `WebSockets`, `Redis pub/sub`, anomaly detection, JWT auth, and Dockerized deployment. |
-| **[ai-resume-screener](https://github.com/sajadkoder/ai-resume-screener)** | Resume screening API powered by Groq LLM, JWT authentication, and `SQLAlchemy`. |
-| **[blitzkode](https://github.com/sajadkoder/blitzkode)** | AI coding assistant built around a fine-tuned `Qwen2.5-1.5B` model with `llama.cpp` and `LoRA` training workflows. |
-| **[Anogram](https://github.com/sajadkoder/Anogram)** | Offline-first messaging application with Jetpack Compose UI, Bluetooth mesh networking, and privacy-first peer-to-peer communication. |
-| **[smart-task-ai](https://github.com/sajadkoder/smart-task-ai)** | AI-powered Kanban task manager with drag-and-drop workflows, intelligent categorization, priority suggestions, and analytics. |
-| **[lexora-ai](https://github.com/sajadkoder/lexora-ai)** | AI application focused on exploring language model capabilities and applied AI workflows. |
-| **[sajad](https://github.com/sajadkoder/sajad)** | Source repository for my personal website and portfolio. [Live](https://sajadkoder.vercel.app) |
-| **[sajadkoder](https://github.com/sajadkoder/sajadkoder)** | GitHub profile repository for this public README and profile presentation. |
+| **sentinel-ml** | real-time fraud detection api (500+ rps, redis caching, mlflow pipeline) |
+| **esencelab** | ai recruitment platform (resume parsing, scoring, ranking, dashboards) |
+| **speakswap** | real-time voice translation app (30+ languages, fully client-side) |
+| **drone-fleet-telemetry-api** | real-time system with websockets, redis pub/sub, anomaly detection |
+| **smart-qa-system** | document qa system with fastapi + local retrieval |
+| **ai-resume-screener** | llm-powered resume screening api with auth + db |
+| **blitzkode** | ai coding assistant with fine-tuned models (llama.cpp + lora) |
+| **lexora-ai** | applied ai experiments and llm workflows |
+| **zeviewer** | platform to explore and review ai models |
+| **smart-task-ai** | ai-powered kanban task manager with automation |
+| **Anogram** | offline-first messaging app (p2p + bluetooth mesh) |
 
 ---
 
-## Writing
+## writing
 
-| Date | Article |
-| --- | --- |
-| Mar 2026 | [How AI Companies Scale: The New Era of Software Development](https://sajadkoder.vercel.app/blogs/ai-companies-scale-2026.html) |
-| Mar 2026 | [The Complete Guide to Using OpenCode Effectively](https://sajadkoder.vercel.app/blogs/opencode-guide-2026.html) |
-| Mar 2026 | [The Complete Guide to OpenCLAW: Your 24/7 AI Agent](https://sajadkoder.vercel.app/blogs/openclaw-guide-2026.html) |
-| Feb 2026 | [Agentic Engineering: Building Autonomous AI Systems That Actually Work](https://sajadkoder.vercel.app/blogs/agentic-engineering.html) |
-| Jan 2026 | [Building with AI Agents: A Practical Guide](https://sajadkoder.vercel.app/blogs/ai-agents-guide.html) |
-| Dec 2025 | [AI Coding Tools That Changed How I Work](https://sajadkoder.vercel.app/blogs/ai-coding-tools-2026.html) |
-| Oct 2025 | [The LLM Landscape: What's Actually Useful in 2026](https://sajadkoder.vercel.app/blogs/llm-landscape-2026.html) |
-| Sep 2025 | [DSA in the Real World: Beyond LeetCode](https://sajadkoder.vercel.app/blogs/dsa-real-world.html) |
-| Aug 2025 | [Introduction to System Design](https://sajadkoder.vercel.app/blogs/system-design-intro.html) |
-| Jul 2025 | [Neurosymbolic AI in Military Systems](https://sajadkoder.vercel.app/blogs/neurosymbolic-ai-military.html) |
-| Jun 2025 | [Learning AI Engineering as a Software Developer](https://sajadkoder.vercel.app/blogs/learning-ai-engineering.html) |
+i write about ai engineering, systems, and building real products  
 
-More writing: [sajadkoder.vercel.app/blog.html](https://sajadkoder.vercel.app/blog.html)
+→ https://sajadkoder.vercel.app/blog.html
 
 ---
 
-## Connect
+## contact
 
-- Portfolio: [sajadkoder.vercel.app](https://sajadkoder.vercel.app)
-- GitHub: [github.com/sajadkoder](https://github.com/sajadkoder)
-- LinkedIn: [linkedin.com/in/abdullasajad](https://linkedin.com/in/abdullasajad)
-- Email: [abdullasajad01@gmail.com](mailto:abdullasajad01@gmail.com)
+portfolio → https://sajadkoder.vercel.app  
+github → https://github.com/sajadkoder  
+linkedin → https://linkedin.com/in/abdullasajad  
+email → abdullasajad01@gmail.com  
