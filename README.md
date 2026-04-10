@@ -12,9 +12,7 @@
 
 ## about
 
-i build production-ready systems — not just demos  
-
-worked on ai platforms, real-time ml systems, and scalable backend apis  
+build and worked on ai platforms, real-time ml systems, and scalable backend apis  
 focused on backend architecture, ai integration, and systems that actually scale  
 
 ---
